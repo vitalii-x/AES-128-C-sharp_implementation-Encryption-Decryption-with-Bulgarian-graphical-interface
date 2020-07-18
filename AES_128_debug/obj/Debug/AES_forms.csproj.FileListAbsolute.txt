@@ -1,0 +1,27 @@
+C:\Users\pops\source\repos\AES_forms\bin\Debug\AES_forms.exe.config
+C:\Users\pops\source\repos\AES_forms\bin\Debug\AES_forms.exe
+C:\Users\pops\source\repos\AES_forms\bin\Debug\AES_forms.pdb
+C:\Users\pops\source\repos\AES_forms\obj\Debug\AES_forms.csprojAssemblyReference.cache
+C:\Users\pops\source\repos\AES_forms\obj\Debug\AES_forms.Form1.resources
+C:\Users\pops\source\repos\AES_forms\obj\Debug\AES_forms.Properties.Resources.resources
+C:\Users\pops\source\repos\AES_forms\obj\Debug\AES_forms.csproj.GenerateResource.cache
+C:\Users\pops\source\repos\AES_forms\obj\Debug\AES_forms.exe
+C:\Users\pops\source\repos\AES_forms\obj\Debug\AES_forms.pdb
+C:\Users\pops\source\repos\aes\AES_forms\bin\Debug\AES_forms.exe.config
+C:\Users\pops\source\repos\aes\AES_forms\bin\Debug\AES_forms.exe
+C:\Users\pops\source\repos\aes\AES_forms\bin\Debug\AES_forms.pdb
+C:\Users\pops\source\repos\aes\AES_forms\obj\Debug\AES_forms.csprojAssemblyReference.cache
+C:\Users\pops\source\repos\aes\AES_forms\obj\Debug\AES_forms.Form1.resources
+C:\Users\pops\source\repos\aes\AES_forms\obj\Debug\AES_forms.Properties.Resources.resources
+C:\Users\pops\source\repos\aes\AES_forms\obj\Debug\AES_forms.csproj.GenerateResource.cache
+C:\Users\pops\source\repos\aes\AES_forms\obj\Debug\AES_forms.exe
+C:\Users\pops\source\repos\aes\AES_forms\obj\Debug\AES_forms.pdb
+C:\Users\pops\source\repos\AES_forms - Copy\bin\Debug\AES_forms.exe.config
+C:\Users\pops\source\repos\AES_forms - Copy\bin\Debug\AES_forms.exe
+C:\Users\pops\source\repos\AES_forms - Copy\bin\Debug\AES_forms.pdb
+C:\Users\pops\source\repos\AES_forms - Copy\obj\Debug\AES_forms.csprojAssemblyReference.cache
+C:\Users\pops\source\repos\AES_forms - Copy\obj\Debug\AES_forms.Form1.resources
+C:\Users\pops\source\repos\AES_forms - Copy\obj\Debug\AES_forms.Properties.Resources.resources
+C:\Users\pops\source\repos\AES_forms - Copy\obj\Debug\AES_forms.csproj.GenerateResource.cache
+C:\Users\pops\source\repos\AES_forms - Copy\obj\Debug\AES_forms.exe
+C:\Users\pops\source\repos\AES_forms - Copy\obj\Debug\AES_forms.pdb
